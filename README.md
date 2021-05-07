@@ -1,4 +1,4 @@
-# knightstour
+# KnightTour
 
 This is a Java program that searches for a valid knight’s tour on a chessboard of the input size parameter using a stack and a backtracking paradigm.
 
